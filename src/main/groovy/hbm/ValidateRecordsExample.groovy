@@ -1,4 +1,4 @@
-import main.groovy.Config
+package main.groovy.hbm
 
 Config config = new Config()
 assert config.factory != null

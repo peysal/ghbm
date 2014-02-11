@@ -1,4 +1,4 @@
-package main.groovy
+package main.groovy.hbm
 
 import main.java.Book
 
